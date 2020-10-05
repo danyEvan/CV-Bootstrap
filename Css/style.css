@@ -1,0 +1,18 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+h1,h2,h3,h4{
+    font-family: 'Roboto', sans-serif;
+}
+
+.fa-linkedin{
+    color:rgb(36, 150, 226);
+}
+.fa-instagram{
+    color:hotpink;
+} 
+.fa-github{
+    color:rgb(77, 67, 67);
+} 
