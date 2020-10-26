@@ -14,5 +14,15 @@ h1,h2,h3,h4{
     color:hotpink;
 } 
 .fa-github{
-    color:rgb(77, 67, 67);
+    color:rgb(255, 255, 255);
 } 
+
+
+.color{
+    background-color: rgb(50, 66, 80);
+}
+
+.borde{
+    border: .2rem solid ghostwhite;
+}
+/*background-color: rgb(233, 197, 143)
